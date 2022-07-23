@@ -1,0 +1,1 @@
+Este archivo se crea para hacer algunos commits y luego usar el comando rm y ver que pasa
