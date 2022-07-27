@@ -9,5 +9,6 @@ Un excelente curso de Platzi para aprender habilidades y súper poderes que pued
 * Participar en un fork de Emaku
 * Hacer nuestra empresa multimillonaria
 * Hacer felices a nuestros clientes
+* Mejorar la calidad de lo que hacemos
 
 Este es solo un ejemplo de las cosas maravillosas que **podemos crear**
