@@ -10,5 +10,7 @@ Un excelente curso de Platzi para aprender habilidades y súper poderes que pued
 * Hacer nuestra empresa multimillonaria
 * Hacer felices a nuestros clientes
 * Mejorar la calidad de lo que hacemos
+* Disminución de errores
+* Mejora del tiempo que se puede usar para investigación
 
 Este es solo un ejemplo de las cosas maravillosas que **podemos crear**
